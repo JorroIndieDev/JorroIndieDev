@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/JorroIndieDev/JorroIndieDev/blob/main/ProfileImage.png" style="border-radius: 50%;" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/JorroIndieDev/JorroIndieDev/main/ProfileImage.png" style="border-radius: 50%;" />
+
 
 ###
 
