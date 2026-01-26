@@ -28,7 +28,11 @@
 
 ###
 
-- 🔭 I’m currently working on school and my development environment
+- 🔭 I’m currently focused on school and my development environment
+- Side projects include:
+  - small games
+  - testing new apps
+  - home labbing
 - 🌱 I’m currently learning how to make better shell scripts
 
 ###
