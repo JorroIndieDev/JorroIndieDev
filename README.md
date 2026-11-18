@@ -28,7 +28,7 @@
 
 ###
 
-- 🔭 I’m currently focused on school
+- Aspiring game developer
 - Side projects include:
   - small games
   - testing new apps
